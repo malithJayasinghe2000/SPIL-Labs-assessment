@@ -18,7 +18,6 @@ A full-stack web application for creating, visualizing, modifying, and persistin
 - [API Documentation](#api-documentation)
 - [Pre-configured Shapes](#pre-configured-shapes)
 - [Project Structure](#project-structure)
-- [Testing](#testing)
 
 ---
 
@@ -316,21 +315,9 @@ curl -X PUT http://localhost:8080/api/shapes/{id} ^
 curl -X DELETE http://localhost:8080/api/shapes/{id}
 ```
 
-### Testing the Frontend
-
-1. Open **http://localhost:3000** in your browser
-2. You should see 3 pre-configured shapes in the list
-3. Click any shape to preview it on the canvas
-4. Create a new shape using the form
-5. Edit a shape by clicking the ✏️ button
-6. Delete a shape by clicking the 🗑️ button
-7. Verify all properties (Area, Perimeter) update dynamically
-
 ---
 
 ## VS Code Recommended Extensions
-
-For the best development experience, install these VS Code extensions:
 
 - **Extension Pack for Java** (vscjava.vscode-java-pack)
 - **Spring Boot Extension Pack** (vmware.vscode-boot-dev-pack)
