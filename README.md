@@ -2,8 +2,6 @@
 
 A full-stack web application for creating, visualizing, modifying, and persisting geometric shapes. Built with **React**, **Spring Boot**, and **MySQL**.
 
-![Tech Stack](https://img.shields.io/badge/React-19-blue) ![Tech Stack](https://img.shields.io/badge/Spring%20Boot-3.4-green) ![Tech Stack](https://img.shields.io/badge/MySQL-8-orange) ![Tech Stack](https://img.shields.io/badge/Java-21-red)
-
 ---
 
 ## Table of Contents
